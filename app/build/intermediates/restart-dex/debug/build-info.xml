@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="496576255263718"
+    token="-5012942838647521623"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="21939" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="3734" />
+    <task
+        name="verifier"
+        duration="1156" />
+
+    <artifact
+        location="C:\Users\Arnoldkom\Documents\SMS\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="496576255263718"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Arnoldkom\Documents\SMS\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,7 @@
+#Sun Jan 14 11:38:15 CET 2018
+base.0=C\:\\Users\\Arnoldkom\\Documents\\SMS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f2508f3613d9ab1a21b7f8a3a3b6984ebe353fbd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Arnoldkom\\Documents\\SMS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f1bb87ea65c1a214832e31f80014f1ea22a9d640\\classes.dex
+base.1=C\:\\Users\\Arnoldkom\\Documents\\SMS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f1bb87ea65c1a214832e31f80014f1ea22a9d640
+file.0=C\:\\Users\\Arnoldkom\\Documents\\SMS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f2508f3613d9ab1a21b7f8a3a3b6984ebe353fbd\\classes.dex
